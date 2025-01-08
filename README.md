@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navya-Sagar
-- 👀 I’m interested in UI UX
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning and exploring at my best.
 - 💞️ I’m looking to collaborate on various projects eager to learn something new
 - 📫 How to reach me navyasagar3@gmail.com
 - 😄 Pronouns: She/Her
